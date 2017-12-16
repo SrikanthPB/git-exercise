@@ -2,7 +2,7 @@ class Hello
 {
 public static void main(String args[])
 {
-System.out.println("Hello from the github origin");
+System.out.println("Hello from the git client local");
 
 }
 }
