@@ -2,7 +2,7 @@ class Hello
 {
 public static void main(String args[])
 {
-System.out.println("Hello from depar1");
+System.out.println("Hello from depart2");
 
 }
 }
